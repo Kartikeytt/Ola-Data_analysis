@@ -4,9 +4,7 @@ This project focuses on analyzing ride data from Ola, one of India's leading rid
 
 🧾 Data Source
 
-Sample sales data from Kaggle
-
- Mock data generated for visualization purposes
+Sample sales data from Kaggle ,Processed and transform using power Query.
 
  
 
